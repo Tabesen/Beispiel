@@ -2,6 +2,8 @@
 
 ## Warum wir git verwenden
 
-* Teamfähigkeit
-* backup
-* zurück zu einer vorherigen Version
+1. Teamfähigkeit
+1. backup
+1. zurück zu einer vorherigen Version
+
+## Nächster Kurs HTML
